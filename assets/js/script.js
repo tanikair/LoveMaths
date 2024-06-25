@@ -1,31 +1,31 @@
-function (runGame) {
+function runGame() {
 
 }
 
-function (checkAnswer) {
+function checkAnswer() {
 
 }
 
-function (calculateCorrectAnswer) {
+function calculateCorrectAnswer() {
 
 }
 
-function (incrementScore) {
+function incrementScore() {
 
 }
 
-function (incrementWrongAnswer) {
+function incrementWrongAnswer() {
 
 }
 
-function (displayAdditionQuestion) {
-    
-}
-
-function (displaySubtractQuestion) {
+function displayAdditionQuestion() {
 
 }
 
-function (displayMultiplyQuestiom) {
+function displaySubtractQuestion() {
+
+}
+
+function displayMultiplyQuestiom() {
 
 }
